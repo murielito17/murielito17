@@ -1,10 +1,12 @@
-<br clear="both">
-
-<img align="right" height="200" src="https://i.ibb.co/1Y62rMQV/d6a25edf-50c1-43f4-b082-a07753ec70fc.png"  />
+<h1 align="center">Hey. Everything okay?</h1>
 
 ###
 
-<h1 align="center">Hey. Everything okay?</h1>
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://i.ibb.co/1Y62rMQV/d6a25edf-50c1-43f4-b082-a07753ec70fc.png"  />
+</div>
 
 ###
 
@@ -25,18 +27,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murielito17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=highcontrast&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<p align="left">I’m a student who has taken several courses and really enjoys backend programming. I'm familiar with Python, with 3 years of experience, Java for about 1 year, and JavaScript and TypeScript for a few months. I also have 2 years of experience working with databases, and I’m currently pursuing a degree to further specialize in database management and system development.</p>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -47,6 +37,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
+</div>
+
+###
+
+<p align="left">I’m a student who has taken several courses and really enjoys backend programming. I'm familiar with Python, with 3 years of experience, Java for about 1 year, and JavaScript and TypeScript for a few months. I also have 2 years of experience working with databases, and I’m currently pursuing a degree to further specialize in database management and system development.</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murielito17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
 </div>
 
 ###
