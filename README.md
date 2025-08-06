@@ -1,52 +1,52 @@
-<br claro="ambos">
+<br clear="both">
 
-<imagem alinhar="certo" altura="200" fonte="https://i.ibb.co/1Y62rMQV/d6a25edf-50c1-43f4-b082-a07753ec70fc.png"  />
-
-###
-
-<h1 alinhar="centro">Olá. Tudo bem?</h1>
+<img align="right" height="200" src="https://i.ibb.co/1Y62rMQV/d6a25edf-50c1-43f4-b082-a07753ec70fc.png"  />
 
 ###
 
-<dividir alinhar="centro">
-  <a href="https://www.linkedin.com/in/murielito/" alvo="_em branco">
-    <imagem fonte="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" largura="43" altura="31" alt="logotipo do linkedin"  />
+<h1 align="center">Hey. Everything okay?</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/murielito/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="43" height="31" alt="linkedin logo"  />
   </a>
-  <imagem fonte="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" largura="47">
-    </img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="31" alt="logotipo do Instagram" />
-  </ahref
-  <imagem fonte="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" largura="47">
-    </img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" largura="43" altura="31" alt="logotipo hackerrank" />
-  </dividir>
-  <a href="https://www.youtube.com/@Muriellito" alvo="_em branco">
- ma#img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="43" height="31" alt="logotipo do youtube" />
+  <a href="https://www.instagram.com/muriellito/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="31" alt="instagram logo"  />
   </a>
-</divisão alinhar
-
-</
-
-ma#br clear="ambos">
-
-<h1 alinhar="centro">
-  <imagem fonte="https://github-readme-stats.vercel.app/api?username=murielito17&ocultar_título=falso&ocultar_classificação=falso&mostrar_ícones=verdadeiro&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro&desabilitar_animações=verdadeiro&tema=alto contraste&localidade=en&ocultar_fronteira=verdadeiro&ordem=1&custom_title=Estatísticas" altura="150" alt="gráfico de estatísticas"  />
-mãe#div>
+  <a href="https://www.hackerrank.com/profile/murivini3" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="43" height="31" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Muriellito" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="43" height="31" alt="youtube logo"  />
+  </a>
+</div>
 
 ###
 
-###p align="left">Sou um estudante que fez vários cursos e realmente gosta de programação de backend. Estou familiarizado com Python, com 3 anos de experiência, Java por cerca de 1 ano e JavaScript e TypeScript por alguns meses. Também tenho 2 anos de experiência trabalhando com bancos de dados e atualmente estou cursando uma graduação para me especializar ainda mais em gerenciamento de banco de dados e desenvolvimento de sistemas.</p>
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murielito17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=highcontrast&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
+</div>
 
 ###
 
-ma#div align="centro">
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" altura="60" alt="logotipo datilografado"  />
-  <h3 alinhar="esquerda" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" altura="60" alt="logotipo python"  />
- ma#img largura="12" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" altura="60" alt="logotipo Java"  />
-  <dividir alinhar="centro" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alta="40" alt="logotipo Java"  />
-  <imagem largura="12" />
-  <imagem fonte="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alta="40" alt="logotipo javascript"  />
-</dividir>
+<p align="left">I’m a student who has taken several courses and really enjoys backend programming. I'm familiar with Python, with 3 years of experience, Java for about 1 year, and JavaScript and TypeScript for a few months. I also have 2 years of experience working with databases, and I’m currently pursuing a degree to further specialize in database management and system development.</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="mysql logo"  />
+</div>
 
 ###
