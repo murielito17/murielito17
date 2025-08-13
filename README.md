@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I’m a student who has taken several courses and really enjoys backend programming. I'm familiar with Python, with 3 years of experience, Java for about 1 year, and JavaScript and TypeScript for a few months. I also have 2 years of experience working with databases, and I’m currently pursuing a degree to further specialize in database management and system development.</p>
+<p align="left">I am an aspiring programmer at the beginning of my career, with approximately two years of study experience. I have intermediate knowledge of Python, developed over about one year of practice, and have been focusing on improving my skills in Java in recent months. I also have basic knowledge of databases and am currently pursuing a degree in Systems Development and Data Management, aiming to consolidate and expand my technical expertise.</p>
 
 ###
 
