@@ -20,8 +20,7 @@
 </ul>
 
 <hr />
-
-<h3>Linguagens e Tecnologias</h3>
+Linguagens e Tecnologias</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" /> &nbsp;
@@ -30,10 +29,8 @@
 </p>
 
 <hr />
-
 <h3>Estatísticas do GitHub</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murielito17&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murielito17&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murielito17&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
